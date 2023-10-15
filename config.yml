@@ -1,0 +1,13 @@
+path: C:/Users/pc2/PycharmProjects/ImageClassifier/data
+train: images/train
+val: images/train
+
+names:
+  0: Black
+  1: Blue
+  2: Purple
+  3: Yellow
+  4: Green
+  5: Brown
+  6: Red
+  7: Orange
