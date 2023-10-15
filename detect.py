@@ -26,7 +26,7 @@ original_list ={
 }
 
 #getting the results for the image
-results = model(source="predict/444.mp4", show=True, conf=0.8,save=True)
+results = model(source="predict/444.mp4", show=True, conf=0.85,save=True)
 # set = []
 # # Loop through the results and print  label names
 # for r in results:
